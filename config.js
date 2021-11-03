@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu Cậu 3000 😘😘',
     messDesc: 'Còn Ngại Gì Nữa, Mà Không Inbox Cho Tớ.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //https://m.me/THT.Clone
+    messLink: 'https://chuoikhongcute.github.io/Confess-Crush'//https://m.me/THT.Clone
 }
